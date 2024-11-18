@@ -26,7 +26,7 @@
     align-items: center;
 }
 
-.create {
+#create {
     margin-top: 10px;
     padding: 2px;
     background-color: #e5d992;
@@ -53,7 +53,7 @@
 
 }
 
-.notearea {
+#notearea {
     padding-left: 40px;
 
 }
